@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This report analyzes **8 conversations** with lawyers across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
+This report analyzes **15 conversations** with lawyers across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
 
 ---
 
@@ -10,27 +10,28 @@ This report analyzes **8 conversations** with lawyers across various industries 
 
 ### Top Use Cases
 
-- **Legal Research**: 17 professionals (213%)
-  - *Conversations: 00165, 00186, 00211, 00245, 00402, 00403, 00444*
-- **Case Analysis**: 12 professionals (150%)
-  - *Conversations: 00165, 00186, 00211, 00402, 00403, 00444*
-- **Document Drafting**: 9 professionals (113%)
-  - *Conversations: 00165, 00186, 00211, 00245, 00402, 00403, 00444*
-- **Client Communication**: 5 professionals (63%)
-  - *Conversations: 00165, 00245, 00402, 00403, 00444*
+- **Legal Research**: 31 professionals (207%)
+  - *Conversations: 00165, 00186, 00211, 00245, 00402, 00403, 00444, 00561, 00745, 00789, 00843, 00859, 00941*
+- **Document Drafting**: 21 professionals (140%)
+  - *Conversations: 00165, 00186, 00211, 00245, 00402, 00403, 00444, 00561, 00745, 00789, 00843, 00941, 00976*
+- **Case Analysis**: 21 professionals (140%)
+  - *Conversations: 00165, 00186, 00211, 00402, 00403, 00444, 00561, 00745, 00789, 00843, 00859, 00941*
+- **Client Communication**: 10 professionals (67%)
+  - *Conversations: 00165, 00245, 00402, 00403, 00444, 00789, 00843, 00859*
 
 ### Primary Benefits Reported
 
-- **Better Quality**: Mentioned 9 times
-- **Improved Efficiency**: Mentioned 3 times
-- **Increased Speed**: Mentioned 2 times
-- **Time Savings**: Mentioned 1 times
+- **Better Quality**: Mentioned 19 times
+- **Time Savings**: Mentioned 5 times
+- **Improved Efficiency**: Mentioned 4 times
+- **Increased Speed**: Mentioned 3 times
 
 ### Tools & Platforms Used
 
-- **ChatGPT**: 3 mentions
-- **Claude**: 2 mentions
-- **Gemini**: 1 mentions
+- **ChatGPT**: 7 mentions
+- **Copilot**: 5 mentions
+- **Gemini**: 4 mentions
+- **Claude**: 3 mentions
 
 ---
 
@@ -84,6 +85,15 @@ This report analyzes **8 conversations** with lawyers across various industries 
 4. "Of course I do. I see AI as an enhancement not a replacement and even if I ask it to draft something for me I will assess it's output critically like I would when reviewing work sent to me by another lawyer. Whilst AI is very good an appearing confident in its answers, I don't just accept it's output at face value. This is also one of the reasons I challenge it to double check things."
    *— From conversation 00444.md*
 
+5. "I am not concerned about it in my line of work because at the end of the day AI is not permitted to draft and submit arguments to court."
+   *— From conversation 00561.md*
+
+6. "I worry about confidentiality and data security.  Most of the data I am feeding to the AI is confidential or definitively should not be seen by employees, competitors, etc.  If I'm unsure about something being strictly confidential, I always ask the main partner first because I don't want to break any rules"
+   *— From conversation 00789.md*
+
+7. "i really enjoy writing, so sometimes i will just decide to write something myself, especially if i have had good ideas or im particularly interested or excited in the topic. there are also many things that i would love to use ai for but i cant due to confidentiality or ethical concerns. so sometimes i think ai could be really helpful, but my hands are tied"
+   *— From conversation 00941.md*
+
 ---
 
 ## Future Perspectives
@@ -109,13 +119,16 @@ This report analyzes **8 conversations** with lawyers across various industries 
 7. "I think that AI is going to decrease people's reliance on lawyers once people understand how to write the correct prompts. Especially, low income persons who rely on lawyers because they don't understand the law.  A lot of things that people hire lawyers for in their individual capacity, they can truly do themselves."
    *— From conversation 00403.md*
 
+8. "The AI will also provide a summary of the case which I will read first to further eliminate irrelevant cases.  But at the end of the day I still need to read the entire case if I am going to use it in a brief.  To not do so would be unethical in my opinion."
+   *— From conversation 00561.md*
+
 ---
 
 ## Conclusions
 
 ### Key Takeaways
 
-Based on the analysis of 8 conversations:
+Based on the analysis of 15 conversations:
 
 1. **Adoption Patterns**: Lawyers are actively integrating AI into their daily workflows
 
@@ -131,12 +144,12 @@ Based on the analysis of 8 conversations:
 
 ## Methodology
 
-- **Sample Size**: 8 conversations
+- **Sample Size**: 15 conversations
 - **Analysis Method**: Natural language processing and thematic coding
 - **Time Period**: Conversations collected in 2024-2025
 - **Data Source**: Interview Transcripts Database
 
 ---
 
-*Report Generated: 12/6/2025*
+*Report Generated: 12/8/2025*
 *Source: Interview Transcripts - Lawyer Category*

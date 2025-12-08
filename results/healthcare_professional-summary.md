@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This report analyzes **12 conversations** with healthcare professionals across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
+This report analyzes **21 conversations** with healthcare professionals across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
 
 ---
 
@@ -10,21 +10,21 @@ This report analyzes **12 conversations** with healthcare professionals across v
 
 ### Top Use Cases
 
-- **Patient Documentation**: 10 professionals (83%)
-  - *Conversations: 00127, 00320, 00336, 00342, 00414, 00422*
-- **Research**: 8 professionals (67%)
-  - *Conversations: 00043, 00084, 00094, 00119, 00342, 00422*
-- **Data Analysis**: 5 professionals (42%)
-  - *Conversations: 00028, 00094, 00119, 00336*
-- **Clinical Communication**: 5 professionals (42%)
-  - *Conversations: 00094, 00320, 00342*
+- **Patient Documentation**: 25 professionals (119%)
+  - *Conversations: 00127, 00320, 00336, 00342, 00414, 00422, 00523, 00626, 00728, 00762, 00971*
+- **Research**: 15 professionals (71%)
+  - *Conversations: 00043, 00084, 00094, 00119, 00342, 00422, 00626, 00762, 01257, 01267*
+- **Clinical Communication**: 10 professionals (48%)
+  - *Conversations: 00094, 00320, 00342, 00523, 00728, 00971*
+- **Data Analysis**: 9 professionals (43%)
+  - *Conversations: 00028, 00094, 00119, 00336, 00462, 00626, 01257*
 
 ### Primary Benefits Reported
 
-- **Better Quality**: Mentioned 8 times
-- **Improved Efficiency**: Mentioned 6 times
-- **Time Savings**: Mentioned 4 times
-- **Increased Speed**: Mentioned 2 times
+- **Better Quality**: Mentioned 16 times
+- **Improved Efficiency**: Mentioned 10 times
+- **Time Savings**: Mentioned 5 times
+- **Increased Speed**: Mentioned 3 times
 
 ### Tools & Platforms Used
 
@@ -85,6 +85,15 @@ This report analyzes **12 conversations** with healthcare professionals across v
 5. "I don't use it very often, mainly for research about local community services that can support people with various challenges."
    *— From conversation 00422.md*
 
+6. "Yes, I only started using it because my classmates do. During the didactic portion of med school some people would upload long powerpoint slides from lecture and ask AI to make them anki cards out of that material. Or you can ask it to quiz you using only that powerpoint slide so you know you're learning directly from the information your professors will be testing you on and you don't have to worry as much about finding reputable sources. it can also save time by pulling out high yield information from those long documents you don't have as much time to review"
+   *— From conversation 00626.md*
+
+7. "Suggestions for anything person centred (i.e. referring to work for a single service user), or to do with risk assessments, I would not use AI for, as the cost for utilising information that could result in harm/risk to the individual is so high if the suggestion is poor."
+   *— From conversation 00969.md*
+
+8. "Knowledge of the individual service user and risks (primarily on our site), due to the day-to-day experience of working with our patients in that context. A suggestion that may seem mundane may pose serious safeguarding risks if rolled out."
+   *— From conversation 00969.md*
+
 ---
 
 ## Future Perspectives
@@ -101,13 +110,25 @@ This report analyzes **12 conversations** with healthcare professionals across v
 4. "not really no, I would welcome being replaced in tasks that AI could do better if it means freeing more time for me to apply myself to tasks that AI cannot assist with. In my work, there is extensive patient facing duties that AI would not be able to take over in any meaningful way, at least not in the near future."
    *— From conversation 00342.md*
 
+5. "Yes, i often think about maintaining my skills.  I think it's important as there will be a long period where you will still need people to review the work done from AI.  Also, if there's ever any technical issues where the AI isn't functioning properly, it is important to still know how to do things yourself."
+   *— From conversation 00462.md*
+
+6. "I think I will be moving to use AI more in the future, especially as it keeps improving.  I definitely see myself expanding into new areas and have actually really been enjoying AI in my spare time simply as a learning tool.  It makes information extremely accessible, and is able to provide examples instantly."
+   *— From conversation 00462.md*
+
+7. "In my job, I don't think that AI could take over my skills. Much of what I do is hands on with the patient, so I don't think this will be an issue."
+   *— From conversation 00523.md*
+
+8. "I have heard of physicians using AI to create documentation for them. At this time, we do not have the option for this in our documentation system. However, moving forward, I believe that AI will be able to listen in on evaluations and create documents for me so that I can focus on the patient and not be typing/writing notes while communicating with them."
+   *— From conversation 00523.md*
+
 ---
 
 ## Conclusions
 
 ### Key Takeaways
 
-Based on the analysis of 12 conversations:
+Based on the analysis of 21 conversations:
 
 1. **Adoption Patterns**: Healthcare Professionals are actively integrating AI into their daily workflows
 
@@ -123,12 +144,12 @@ Based on the analysis of 12 conversations:
 
 ## Methodology
 
-- **Sample Size**: 12 conversations
+- **Sample Size**: 21 conversations
 - **Analysis Method**: Natural language processing and thematic coding
 - **Time Period**: Conversations collected in 2024-2025
 - **Data Source**: Interview Transcripts Database
 
 ---
 
-*Report Generated: 12/6/2025*
+*Report Generated: 12/8/2025*
 *Source: Interview Transcripts - Healthcare_Professional Category*

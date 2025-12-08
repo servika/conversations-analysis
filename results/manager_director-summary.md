@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This report analyzes **56 conversations** with managers & directors across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
+This report analyzes **136 conversations** with managers & directors across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
 
 ---
 
@@ -10,30 +10,30 @@ This report analyzes **56 conversations** with managers & directors across vario
 
 ### Top Use Cases
 
-- **Research**: 46 professionals (82%)
-  - *Conversations: 00091, 00126, 00180, 00190, 00191, 00197, 00207, 00212, 00229, 00252, 00279, 00304, 00326, 00343, 00347, 00350, 00353, 00365, 00381, 00382, ... (5 more)*
-- **Email & Communication**: 42 professionals (75%)
-  - *Conversations: 00091, 00093, 00101, 00126, 00130, 00132, 00168, 00180, 00197, 00207, 00212, 00287, 00307, 00311, 00326, 00343, 00353, 00365, 00381, 00382, ... (6 more)*
-- **Writing & Documentation**: 37 professionals (66%)
-  - *Conversations: 00059, 00091, 00093, 00101, 00126, 00130, 00132, 00134, 00158, 00180, 00190, 00207, 00229, 00279, 00304, 00326, 00343, 00347, 00350, 00353, ... (6 more)*
-- **Brainstorming & Ideas**: 33 professionals (59%)
-  - *Conversations: 00093, 00101, 00124, 00126, 00130, 00132, 00134, 00139, 00158, 00180, 00190, 00197, 00207, 00212, 00287, 00304, 00353, 00381, 00431*
-- **Data Analysis**: 22 professionals (39%)
-  - *Conversations: 00059, 00091, 00126, 00132, 00158, 00178, 00180, 00190, 00207, 00229, 00236, 00280, 00304, 00385, 00428, 00431*
+- **Research**: 127 professionals (93%)
+  - *Conversations: 00091, 00126, 00180, 00190, 00191, 00197, 00207, 00212, 00229, 00252, 00279, 00304, 00326, 00343, 00347, 00350, 00353, 00365, 00381, 00382, ... (49 more)*
+- **Writing & Documentation**: 106 professionals (78%)
+  - *Conversations: 00059, 00091, 00093, 00101, 00126, 00130, 00132, 00134, 00158, 00180, 00190, 00207, 00229, 00279, 00304, 00326, 00343, 00347, 00350, 00353, ... (49 more)*
+- **Email & Communication**: 94 professionals (69%)
+  - *Conversations: 00091, 00093, 00101, 00126, 00130, 00132, 00168, 00180, 00197, 00207, 00212, 00287, 00307, 00311, 00326, 00343, 00353, 00365, 00381, 00382, ... (42 more)*
+- **Brainstorming & Ideas**: 93 professionals (68%)
+  - *Conversations: 00093, 00101, 00124, 00126, 00130, 00132, 00134, 00139, 00158, 00180, 00190, 00197, 00207, 00212, 00287, 00304, 00353, 00381, 00431, 00474, ... (31 more)*
+- **Data Analysis**: 80 professionals (59%)
+  - *Conversations: 00059, 00091, 00126, 00132, 00158, 00178, 00180, 00190, 00207, 00229, 00236, 00280, 00304, 00385, 00428, 00431, 00474, 00496, 00506, 00537, ... (33 more)*
 
 ### Primary Benefits Reported
 
-- **Better Quality**: Mentioned 43 times
-- **Time Savings**: Mentioned 27 times
-- **Improved Efficiency**: Mentioned 12 times
-- **Increased Speed**: Mentioned 10 times
+- **Better Quality**: Mentioned 121 times
+- **Time Savings**: Mentioned 61 times
+- **Increased Speed**: Mentioned 36 times
+- **Improved Efficiency**: Mentioned 33 times
 
 ### Tools & Platforms Used
 
-- **ChatGPT**: 14 mentions
-- **Claude**: 2 mentions
-- **Copilot**: 2 mentions
-- **Gemini**: 1 mentions
+- **ChatGPT**: 22 mentions
+- **Copilot**: 19 mentions
+- **Gemini**: 15 mentions
+- **Claude**: 9 mentions
 
 ---
 
@@ -133,7 +133,7 @@ This report analyzes **56 conversations** with managers & directors across vario
 
 ### Key Takeaways
 
-Based on the analysis of 56 conversations:
+Based on the analysis of 136 conversations:
 
 1. **Adoption Patterns**: Managers & Directors are actively integrating AI into their daily workflows
 
@@ -149,12 +149,12 @@ Based on the analysis of 56 conversations:
 
 ## Methodology
 
-- **Sample Size**: 56 conversations
+- **Sample Size**: 136 conversations
 - **Analysis Method**: Natural language processing and thematic coding
 - **Time Period**: Conversations collected in 2024-2025
 - **Data Source**: Interview Transcripts Database
 
 ---
 
-*Report Generated: 12/6/2025*
+*Report Generated: 12/8/2025*
 *Source: Interview Transcripts - Manager_Director Category*

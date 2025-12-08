@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This report analyzes **67 conversations** with software developers & engineers across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
+This report analyzes **192 conversations** with software developers & engineers across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
 
 ---
 
@@ -10,34 +10,34 @@ This report analyzes **67 conversations** with software developers & engineers a
 
 ### Top Use Cases
 
-- **Code Writing & Generation**: 113 professionals (169%)
-  - *Conversations: 00014, 00038, 00044, 00054, 00068, 00074, 00078, 00080, 00088, 00146, 00156, 00157, 00169, 00181, 00185, 00188, 00195, 00198, 00200, 00205, ... (30 more)*
-- **Learning & Research**: 69 professionals (103%)
-  - *Conversations: 00016, 00052, 00054, 00056, 00068, 00074, 00078, 00080, 00088, 00156, 00164, 00169, 00173, 00181, 00185, 00188, 00193, 00195, 00198, 00200, ... (22 more)*
-- **Debugging & Troubleshooting**: 33 professionals (49%)
-  - *Conversations: 00014, 00044, 00074, 00078, 00080, 00095, 00156, 00181, 00185, 00188, 00195, 00198, 00232, 00233, 00243, 00294, 00296, 00298, 00303, 00317, ... (4 more)*
-- **Testing**: 22 professionals (33%)
-  - *Conversations: 00074, 00078, 00095, 00146, 00156, 00169, 00188, 00195, 00200, 00232, 00233, 00303, 00317, 00333, 00408*
-- **API & Integration**: 16 professionals (24%)
-  - *Conversations: 00014, 00056, 00146, 00169, 00181, 00185, 00188, 00232, 00303, 00317, 00405, 00416*
-- **Documentation**: 15 professionals (22%)
-  - *Conversations: 00016, 00181, 00218, 00225, 00232, 00277, 00285, 00408, 00412*
-- **Code Review**: 15 professionals (22%)
-  - *Conversations: 00068, 00088, 00156, 00169, 00200, 00225, 00232, 00237, 00250, 00303, 00323, 00368, 00396, 00408*
+- **Code Writing & Generation**: 333 professionals (173%)
+  - *Conversations: 00014, 00038, 00044, 00054, 00068, 00074, 00078, 00080, 00088, 00146, 00156, 00157, 00169, 00181, 00185, 00188, 00195, 00198, 00200, 00205, ... (139 more)*
+- **Learning & Research**: 208 professionals (108%)
+  - *Conversations: 00016, 00052, 00054, 00056, 00068, 00074, 00078, 00080, 00088, 00156, 00164, 00169, 00173, 00181, 00185, 00188, 00193, 00195, 00198, 00200, ... (100 more)*
+- **Debugging & Troubleshooting**: 121 professionals (63%)
+  - *Conversations: 00014, 00044, 00074, 00078, 00080, 00095, 00156, 00181, 00185, 00188, 00195, 00198, 00232, 00233, 00243, 00294, 00296, 00298, 00303, 00317, ... (66 more)*
+- **Documentation**: 59 professionals (31%)
+  - *Conversations: 00016, 00181, 00218, 00225, 00232, 00277, 00285, 00408, 00412, 00454, 00476, 00553, 00564, 00593, 00595, 00615, 00629, 00641, 00668, 00676, ... (23 more)*
+- **Testing**: 49 professionals (26%)
+  - *Conversations: 00074, 00078, 00095, 00146, 00156, 00169, 00188, 00195, 00200, 00232, 00233, 00303, 00317, 00333, 00408, 00454, 00459, 00526, 00553, 00581, ... (17 more)*
+- **Code Review**: 42 professionals (22%)
+  - *Conversations: 00068, 00088, 00156, 00169, 00200, 00225, 00232, 00237, 00250, 00303, 00323, 00368, 00396, 00408, 00459, 00507, 00520, 00556, 00581, 00595, ... (18 more)*
+- **API & Integration**: 38 professionals (20%)
+  - *Conversations: 00014, 00056, 00146, 00169, 00181, 00185, 00188, 00232, 00303, 00317, 00405, 00416, 00476, 00524, 00590, 00603, 00604, 00641, 00681, 00689, ... (10 more)*
 
 ### Primary Benefits Reported
 
-- **Better Quality**: Mentioned 66 times
-- **Improved Efficiency**: Mentioned 34 times
-- **Increased Speed**: Mentioned 19 times
-- **Time Savings**: Mentioned 11 times
+- **Better Quality**: Mentioned 199 times
+- **Improved Efficiency**: Mentioned 66 times
+- **Time Savings**: Mentioned 63 times
+- **Increased Speed**: Mentioned 56 times
 
 ### Tools & Platforms Used
 
-- **ChatGPT**: 10 mentions
-- **Claude**: 6 mentions
-- **Copilot**: 4 mentions
-- **Gemini**: 2 mentions
+- **Copilot**: 59 mentions
+- **ChatGPT**: 55 mentions
+- **Claude**: 48 mentions
+- **Gemini**: 18 mentions
 
 ---
 
@@ -137,7 +137,7 @@ This report analyzes **67 conversations** with software developers & engineers a
 
 ### Key Takeaways
 
-Based on the analysis of 67 conversations:
+Based on the analysis of 192 conversations:
 
 1. **Adoption Patterns**: Software Developers & Engineers are actively integrating AI into their daily workflows
 
@@ -153,12 +153,12 @@ Based on the analysis of 67 conversations:
 
 ## Methodology
 
-- **Sample Size**: 67 conversations
+- **Sample Size**: 192 conversations
 - **Analysis Method**: Natural language processing and thematic coding
 - **Time Period**: Conversations collected in 2024-2025
 - **Data Source**: Interview Transcripts Database
 
 ---
 
-*Report Generated: 12/6/2025*
+*Report Generated: 12/8/2025*
 *Source: Interview Transcripts - Software_Developer_Engineer Category*

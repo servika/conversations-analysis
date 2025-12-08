@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This report analyzes **34 conversations** with writers & content creators across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
+This report analyzes **149 conversations** with writers & content creators across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
 
 ---
 
@@ -10,30 +10,30 @@ This report analyzes **34 conversations** with writers & content creators across
 
 ### Top Use Cases
 
-- **Writing & Drafting**: 51 professionals (150%)
-  - *Conversations: 00003, 00006, 00007, 00009, 00011, 00012, 00020, 00027, 00064, 00076, 00109, 00111, 00154, 00155, 00174, 00214, 00220, 00230, 00269, 00313, ... (7 more)*
-- **Brainstorming & Ideas**: 29 professionals (85%)
-  - *Conversations: 00006, 00007, 00009, 00011, 00012, 00020, 00024, 00027, 00064, 00214, 00220, 00230, 00302, 00313, 00338, 00362, 00373, 00436*
-- **Research**: 22 professionals (65%)
-  - *Conversations: 00007, 00020, 00027, 00064, 00111, 00155, 00214, 00220, 00269, 00302, 00313, 00373, 00387, 00434*
-- **Editing & Revision**: 20 professionals (59%)
-  - *Conversations: 00006, 00020, 00053, 00064, 00109, 00111, 00214, 00220, 00230, 00313, 00338, 00362, 00387, 00434*
-- **Grammar & Style**: 13 professionals (38%)
-  - *Conversations: 00006, 00007, 00009, 00053, 00110, 00174, 00220, 00338, 00360, 00362*
+- **Writing & Drafting**: 288 professionals (193%)
+  - *Conversations: 00003, 00006, 00007, 00009, 00011, 00012, 00020, 00027, 00064, 00076, 00109, 00111, 00154, 00155, 00174, 00214, 00220, 00230, 00269, 00313, ... (107 more)*
+- **Research**: 180 professionals (121%)
+  - *Conversations: 00007, 00020, 00027, 00064, 00111, 00155, 00214, 00220, 00269, 00302, 00313, 00373, 00387, 00434, 00457, 00461, 00463, 00484, 00494, 00500, ... (79 more)*
+- **Brainstorming & Ideas**: 169 professionals (113%)
+  - *Conversations: 00006, 00007, 00009, 00011, 00012, 00020, 00024, 00027, 00064, 00214, 00220, 00230, 00302, 00313, 00338, 00362, 00373, 00436, 00461, 00463, ... (74 more)*
+- **Editing & Revision**: 102 professionals (68%)
+  - *Conversations: 00006, 00020, 00053, 00064, 00109, 00111, 00214, 00220, 00230, 00313, 00338, 00362, 00387, 00434, 00461, 00484, 00494, 00545, 00562, 00609, ... (48 more)*
+- **Grammar & Style**: 62 professionals (42%)
+  - *Conversations: 00006, 00007, 00009, 00053, 00110, 00174, 00220, 00338, 00360, 00362, 00461, 00463, 00473, 00484, 00494, 00505, 00542, 00545, 00608, 00609, ... (28 more)*
 
 ### Primary Benefits Reported
 
-- **Better Quality**: Mentioned 29 times
-- **Improved Efficiency**: Mentioned 12 times
-- **Increased Speed**: Mentioned 10 times
-- **Time Savings**: Mentioned 7 times
+- **Better Quality**: Mentioned 155 times
+- **Time Savings**: Mentioned 47 times
+- **Increased Speed**: Mentioned 44 times
+- **Improved Efficiency**: Mentioned 41 times
 
 ### Tools & Platforms Used
 
-- **Claude**: 5 mentions
-- **Gemini**: 2 mentions
-- **Copilot**: 1 mentions
-- **ChatGPT**: 1 mentions
+- **ChatGPT**: 31 mentions
+- **Claude**: 30 mentions
+- **Gemini**: 13 mentions
+- **Copilot**: 7 mentions
 
 ---
 
@@ -135,7 +135,7 @@ I like to tell my kids that Steven King doesn't sell fewer books because VC Andr
 
 ### Key Takeaways
 
-Based on the analysis of 34 conversations:
+Based on the analysis of 149 conversations:
 
 1. **Adoption Patterns**: Writers & Content Creators are actively integrating AI into their daily workflows
 
@@ -151,12 +151,12 @@ Based on the analysis of 34 conversations:
 
 ## Methodology
 
-- **Sample Size**: 34 conversations
+- **Sample Size**: 149 conversations
 - **Analysis Method**: Natural language processing and thematic coding
 - **Time Period**: Conversations collected in 2024-2025
 - **Data Source**: Interview Transcripts Database
 
 ---
 
-*Report Generated: 12/6/2025*
+*Report Generated: 12/8/2025*
 *Source: Interview Transcripts - Writer_Content_Creator Category*

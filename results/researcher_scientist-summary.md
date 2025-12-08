@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This report analyzes **27 conversations** with researchers & scientists across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
+This report analyzes **75 conversations** with researchers & scientists across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
 
 ---
 
@@ -10,29 +10,30 @@ This report analyzes **27 conversations** with researchers & scientists across v
 
 ### Top Use Cases
 
-- **Literature Review**: 34 professionals (126%)
-  - *Conversations: 00029, 00035, 00036, 00039, 00045, 00047, 00049, 00050, 00051, 00055, 00057, 00062, 00065, 00066, 00069, 00070, 00075, 00083, 00310, 00438*
-- **Data Analysis**: 22 professionals (81%)
-  - *Conversations: 00029, 00034, 00035, 00036, 00039, 00048, 00049, 00050, 00051, 00055, 00062, 00066, 00067, 00069, 00070, 00081, 00082, 00083*
-- **Writing Papers**: 16 professionals (59%)
-  - *Conversations: 00035, 00036, 00045, 00047, 00049, 00050, 00051, 00065, 00066, 00075, 00083, 00310, 00438*
-- **Code & Programming**: 16 professionals (59%)
-  - *Conversations: 00039, 00045, 00049, 00055, 00065, 00067, 00069, 00081, 00083, 00310, 00438*
-- **Experimental Design**: 7 professionals (26%)
-  - *Conversations: 00035, 00047, 00055, 00057, 00066, 00069*
+- **Literature Review**: 117 professionals (156%)
+  - *Conversations: 00029, 00035, 00036, 00039, 00045, 00047, 00049, 00050, 00051, 00055, 00057, 00062, 00065, 00066, 00069, 00070, 00075, 00083, 00310, 00438, ... (41 more)*
+- **Data Analysis**: 72 professionals (96%)
+  - *Conversations: 00029, 00034, 00035, 00036, 00039, 00048, 00049, 00050, 00051, 00055, 00062, 00066, 00067, 00069, 00070, 00081, 00082, 00083, 00701, 00727, ... (26 more)*
+- **Writing Papers**: 63 professionals (84%)
+  - *Conversations: 00035, 00036, 00045, 00047, 00049, 00050, 00051, 00065, 00066, 00075, 00083, 00310, 00438, 00516, 00701, 00727, 00820, 00922, 00987, 01047, ... (21 more)*
+- **Code & Programming**: 55 professionals (73%)
+  - *Conversations: 00039, 00045, 00049, 00055, 00065, 00067, 00069, 00081, 00083, 00310, 00438, 00516, 00820, 00922, 01047, 01185, 01206, 01211, 01212, 01213, ... (12 more)*
+- **Experimental Design**: 28 professionals (37%)
+  - *Conversations: 00035, 00047, 00055, 00057, 00066, 00069, 01047, 01206, 01211, 01213, 01220, 01221, 01222, 01225, 01236, 01240, 01243, 01248, 01253, 01254, ... (2 more)*
 
 ### Primary Benefits Reported
 
-- **Better Quality**: Mentioned 11 times
-- **Time Savings**: Mentioned 8 times
-- **Increased Speed**: Mentioned 7 times
-- **Improved Efficiency**: Mentioned 7 times
+- **Better Quality**: Mentioned 50 times
+- **Time Savings**: Mentioned 24 times
+- **Increased Speed**: Mentioned 21 times
+- **Improved Efficiency**: Mentioned 21 times
 
 ### Tools & Platforms Used
 
-- **ChatGPT**: 4 mentions
-- **Claude**: 3 mentions
-- **Gemini**: 1 mentions
+- **ChatGPT**: 13 mentions
+- **Claude**: 8 mentions
+- **Gemini**: 6 mentions
+- **Copilot**: 4 mentions
 
 ---
 
@@ -99,6 +100,9 @@ Other times when we see the approach it took, it inspires us and we think of a n
 7. "I wish that it wouldn't decide to be completely dismissive of early-stage ideas, or express as much criticism about novel idea's even if I later decide they are unrealistic. I will sometimes need to modify prompts to tell the model to treat my questions as theoretical because it will often cite psychology studies or ethical concerns, when the questions being asked in my research are harmless and more speculative than factual."
    *— From conversation 00070.md*
 
+8. "It put me off using AI in general for a bit and then I crept back to using it through exploring different ways where I didn't;t have to be so concerned about factual accuracy"
+   *— From conversation 00579.md*
+
 ---
 
 ## Future Perspectives
@@ -125,13 +129,18 @@ AI was definitely brought up and considered in our project, but since it is more
 7. "I think that AI will be more common place. I think that it will allow me to handle a larger amount of data or projects with greater ease."
    *— From conversation 00310.md*
 
+8. "That's a great question! At least in the short-term, I see my relationship with AI being about the same, where I use AI to supplement my work and provide a new perspective when needed. I cannot realistically see myself using AI to replace work that I personally do, and will continue to use AI as a supplement. At work, I still expect to use AI exactly how I've been using it!
+
+In the long term? Well, that will entirely depend on AI's advancements and new capabilities!"
+   *— From conversation 00701.md*
+
 ---
 
 ## Conclusions
 
 ### Key Takeaways
 
-Based on the analysis of 27 conversations:
+Based on the analysis of 75 conversations:
 
 1. **Adoption Patterns**: Researchers & Scientists are actively integrating AI into their daily workflows
 
@@ -147,12 +156,12 @@ Based on the analysis of 27 conversations:
 
 ## Methodology
 
-- **Sample Size**: 27 conversations
+- **Sample Size**: 75 conversations
 - **Analysis Method**: Natural language processing and thematic coding
 - **Time Period**: Conversations collected in 2024-2025
 - **Data Source**: Interview Transcripts Database
 
 ---
 
-*Report Generated: 12/6/2025*
+*Report Generated: 12/8/2025*
 *Source: Interview Transcripts - Researcher_Scientist Category*

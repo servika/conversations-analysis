@@ -54,21 +54,22 @@ scientists = load_dataset("Anthropic/AnthropicInterviewer", split="scientists")
 
 ### Analysis Coverage
 
-**Current Processing Status:**
+**Processing Status:**
 
 | Category | Available | Processed | Coverage |
 |----------|-----------|-----------|----------|
-| Workforce | 1,000 | 341 | 34.1% |
-| Creatives | 125 | 25 | 20.0% |
-| Scientists | 125 | 61 | 48.8% |
-| **Total** | **1,250** | **444** | **35.5%** |
+| Workforce | 1,000 | 1,000 | 100% ✅ |
+| Creatives | 125 | 125 | 100% ✅ |
+| Scientists | 125 | 125 | 100% ✅ |
+| **Total** | **1,250** | **1,250** | **100%** ✅ |
 
-- **Total Conversations Processed**: 444 individual dialogs (35.5% of available data)
-- **Professional Roles Identified**: 30+ distinct categories
+**Analysis Statistics:**
+- **Total Conversations Processed**: 1,250 individual dialogs (100% of dataset)
+- **Professional Roles Identified**: 31 distinct categories
+- **Conversations Categorized**: 910 (72.8%)
 - **Detailed Analysis Reports**: 9 major professional roles
 - **Time Period**: 2024-2025
-
-**Note:** This repository currently contains analysis of 444 conversations. The remaining 806 conversations from the source dataset are available for future analysis.
+- **Last Updated**: December 2025
 
 ## Project Structure
 
@@ -87,9 +88,9 @@ AI research/
 │   └── analyze_all_roles.js        # Generate comprehensive role-based analysis
 │
 ├── output/                         # Processed transcript files
-│   ├── source/                     # All 444 conversations (00001.md - 00444.md)
-│   ├── roles/                      # Conversations organized by professional role
-│   └── positions/                  # Legacy organizational structure
+│   ├── source/                     # All 1,250 conversations (individual markdown files)
+│   ├── roles/                      # Conversations organized by 31 professional roles
+│   └── missing_transcripts/        # Analysis of processing coverage
 │
 ├── results/                        # Analysis reports and summaries
 │   ├── README.md                   # Detailed methodology and overview
@@ -107,41 +108,43 @@ The `results/` folder contains comprehensive analysis reports for different prof
 
 ### Available Analysis Reports
 
-1. **[Software Developers & Engineers](results/software_developer_engineer-summary.md)** (67 conversations)
+1. **[Software Developers & Engineers](results/software_developer_engineer-summary.md)** (192 conversations)
    - Primary uses: Code generation, debugging, API integration, testing
-   - Top benefit: Better Quality (66 mentions)
+   - Comprehensive analysis of AI usage in software development
 
-2. **[Managers & Directors](results/manager_director-summary.md)** (56 conversations)
-   - Primary uses: Email & communication (38%), brainstorming (25%), HR (18%)
-   - Top benefit: Enhanced Creativity (61 mentions)
-
-3. **[Teachers & Educators](results/teacher_educator-summary.md)** (40 conversations)
-   - Primary uses: Student support, lesson planning, parent communication
-   - Top benefit: Better Quality (31 mentions)
-
-4. **[Writers & Content Creators](results/writer_content_creator-summary.md)** (34 conversations)
+2. **[Writers & Content Creators](results/writer_content_creator-summary.md)** (149 conversations)
    - Primary uses: Writing & drafting, editing, brainstorming, research
    - Focus: Maintaining creative voice while leveraging AI
 
-5. **[Researchers & Scientists](results/researcher_scientist-summary.md)** (27 conversations)
+3. **[Managers & Directors](results/manager_director-summary.md)** (136 conversations)
+   - Primary uses: Email & communication, brainstorming, HR
+   - Focus: Leadership and organizational efficiency
+
+4. **[Teachers & Educators](results/teacher_educator-summary.md)** (124 conversations)
+   - Primary uses: Student support, lesson planning, parent communication
+   - Focus: Educational quality and student outcomes
+
+5. **[Researchers & Scientists](results/researcher_scientist-summary.md)** (75 conversations)
    - Primary uses: Data analysis, literature review, paper writing, coding
    - Focus: Balance between AI assistance and rigorous validation
 
-6. **[Sales Professionals](results/sales_professional-summary.md)** (17 conversations)
+6. **[Sales Professionals](results/sales_professional-summary.md)** (51 conversations)
    - Primary uses: Customer communication, pitch development
    - Focus: Personalization and relationship building
 
-7. **[Healthcare Professionals](results/healthcare_professional-summary.md)** (12 conversations)
+7. **[Healthcare Professionals](results/healthcare_professional-summary.md)** (21 conversations)
    - Primary uses: Patient documentation, clinical communication
    - Focus: Accuracy and compliance
 
-8. **[Marketing Professionals](results/marketing_professional-summary.md)** (8 conversations)
+8. **[Marketing Professionals](results/marketing_professional-summary.md)** (15 conversations)
    - Primary uses: Content creation, strategy, social media
    - Focus: Creative applications with data-driven insights
 
-9. **[Lawyers](results/lawyer-summary.md)** (8 conversations)
+9. **[Lawyers](results/lawyer-summary.md)** (15 conversations)
    - Primary uses: Legal research, document drafting
    - Focus: Verification and professional responsibility
+
+**Total Analyzed**: 778 conversations across 9 major professional roles
 
 ### Report Structure
 

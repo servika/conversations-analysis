@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This report analyzes **40 conversations** with teachers & educators across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
+This report analyzes **124 conversations** with teachers & educators across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
 
 ---
 
@@ -10,31 +10,32 @@ This report analyzes **40 conversations** with teachers & educators across vario
 
 ### Top Use Cases
 
-- **Student Support**: 100 professionals (250%)
-  - *Conversations: 00037, 00097, 00099, 00112, 00123, 00136, 00143, 00147, 00148, 00183, 00189, 00192, 00199, 00210, 00234, 00257, 00258, 00259, 00276, 00293, ... (17 more)*
-- **Lesson Planning**: 60 professionals (150%)
-  - *Conversations: 00097, 00099, 00112, 00123, 00135, 00136, 00143, 00147, 00183, 00192, 00210, 00238, 00257, 00259, 00297, 00306, 00319, 00325, 00328, 00335, ... (8 more)*
-- **Communication with Parents**: 29 professionals (73%)
-  - *Conversations: 00099, 00123, 00148, 00199, 00210, 00234, 00293, 00306, 00325, 00328, 00335, 00341, 00345, 00372, 00394, 00418, 00421*
-- **Grading & Feedback**: 20 professionals (50%)
-  - *Conversations: 00097, 00136, 00143, 00199, 00234, 00257, 00258, 00259, 00297, 00306, 00319, 00339, 00394*
-- **Content Creation**: 18 professionals (45%)
-  - *Conversations: 00099, 00143, 00148, 00183, 00192, 00257, 00306, 00319, 00339, 00341, 00356, 00383, 00394, 00435*
-- **Administrative Tasks**: 11 professionals (28%)
-  - *Conversations: 00099, 00123, 00199, 00293, 00297, 00306, 00345, 00421*
+- **Student Support**: 311 professionals (251%)
+  - *Conversations: 00037, 00097, 00099, 00112, 00123, 00136, 00143, 00147, 00148, 00183, 00189, 00192, 00199, 00210, 00234, 00257, 00258, 00259, 00276, 00293, ... (95 more)*
+- **Lesson Planning**: 173 professionals (140%)
+  - *Conversations: 00097, 00099, 00112, 00123, 00135, 00136, 00143, 00147, 00183, 00192, 00210, 00238, 00257, 00259, 00297, 00306, 00319, 00325, 00328, 00335, ... (67 more)*
+- **Communication with Parents**: 70 professionals (56%)
+  - *Conversations: 00099, 00123, 00148, 00199, 00210, 00234, 00293, 00306, 00325, 00328, 00335, 00341, 00345, 00372, 00394, 00418, 00421, 00465, 00492, 00513, ... (25 more)*
+- **Content Creation**: 63 professionals (51%)
+  - *Conversations: 00099, 00143, 00148, 00183, 00192, 00257, 00306, 00319, 00339, 00341, 00356, 00383, 00394, 00435, 00469, 00483, 00528, 00531, 00554, 00560, ... (26 more)*
+- **Grading & Feedback**: 59 professionals (48%)
+  - *Conversations: 00097, 00136, 00143, 00199, 00234, 00257, 00258, 00259, 00297, 00306, 00319, 00339, 00394, 00465, 00469, 00483, 00486, 00492, 00528, 00554, ... (22 more)*
+- **Administrative Tasks**: 42 professionals (34%)
+  - *Conversations: 00099, 00123, 00199, 00293, 00297, 00306, 00345, 00421, 00486, 00513, 00531, 00560, 00586, 00599, 00611, 00669, 00714, 00737, 00931, 00947, ... (8 more)*
 
 ### Primary Benefits Reported
 
-- **Better Quality**: Mentioned 31 times
-- **Time Savings**: Mentioned 15 times
-- **Improved Efficiency**: Mentioned 10 times
-- **Increased Speed**: Mentioned 8 times
+- **Better Quality**: Mentioned 99 times
+- **Time Savings**: Mentioned 51 times
+- **Improved Efficiency**: Mentioned 27 times
+- **Increased Speed**: Mentioned 20 times
 
 ### Tools & Platforms Used
 
-- **ChatGPT**: 4 mentions
-- **Claude**: 3 mentions
-- **Gemini**: 3 mentions
+- **ChatGPT**: 26 mentions
+- **Gemini**: 11 mentions
+- **Claude**: 9 mentions
+- **Copilot**: 4 mentions
 
 ---
 
@@ -137,7 +138,7 @@ I need to keep my skills with it to keep up with the younger generation who use 
 
 ### Key Takeaways
 
-Based on the analysis of 40 conversations:
+Based on the analysis of 124 conversations:
 
 1. **Adoption Patterns**: Teachers & Educators are actively integrating AI into their daily workflows
 
@@ -153,12 +154,12 @@ Based on the analysis of 40 conversations:
 
 ## Methodology
 
-- **Sample Size**: 40 conversations
+- **Sample Size**: 124 conversations
 - **Analysis Method**: Natural language processing and thematic coding
 - **Time Period**: Conversations collected in 2024-2025
 - **Data Source**: Interview Transcripts Database
 
 ---
 
-*Report Generated: 12/6/2025*
+*Report Generated: 12/8/2025*
 *Source: Interview Transcripts - Teacher_Educator Category*

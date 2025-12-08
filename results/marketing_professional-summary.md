@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This report analyzes **8 conversations** with marketing professionals across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
+This report analyzes **15 conversations** with marketing professionals across various industries to understand how AI is transforming their work, the benefits they're experiencing, and their perspectives on the future.
 
 ---
 
@@ -10,26 +10,28 @@ This report analyzes **8 conversations** with marketing professionals across var
 
 ### Top Use Cases
 
-- **Content Creation**: 11 professionals (138%)
-  - *Conversations: 00018, 00102, 00149, 00161, 00241, 00272*
-- **Email Marketing**: 5 professionals (63%)
-  - *Conversations: 00161, 00272, 00273*
-- **Social Media**: 4 professionals (50%)
-  - *Conversations: 00018, 00102*
-- **Strategy Development**: 3 professionals (38%)
-  - *Conversations: 00102, 00149, 00272*
-- **Analytics**: 2 professionals (25%)
-  - *Conversations: 00149*
+- **Content Creation**: 26 professionals (173%)
+  - *Conversations: 00018, 00102, 00149, 00161, 00241, 00272, 00485, 00635, 00655, 00791, 00927, 00973, 01199*
+- **Email Marketing**: 16 professionals (107%)
+  - *Conversations: 00161, 00272, 00273, 00485, 00635, 00655, 00791, 00927, 00973, 01199*
+- **Strategy Development**: 12 professionals (80%)
+  - *Conversations: 00102, 00149, 00272, 00485, 00635, 00655, 00791, 00927, 00973*
+- **Social Media**: 10 professionals (67%)
+  - *Conversations: 00018, 00102, 00485, 00635, 00791*
+- **Analytics**: 10 professionals (67%)
+  - *Conversations: 00149, 00485, 00635, 00655, 00927, 00973*
 
 ### Primary Benefits Reported
 
-- **Better Quality**: Mentioned 6 times
-- **Time Savings**: Mentioned 3 times
-- **Increased Speed**: Mentioned 1 times
+- **Better Quality**: Mentioned 14 times
+- **Time Savings**: Mentioned 8 times
+- **Increased Speed**: Mentioned 5 times
+- **Improved Efficiency**: Mentioned 1 times
 
 ### Tools & Platforms Used
 
-- **ChatGPT**: 2 mentions
+- **ChatGPT**: 3 mentions
+- **Gemini**: 2 mentions
 - **Claude**: 1 mentions
 
 ---
@@ -82,6 +84,12 @@ I have also used it to create elements of business plans, helping me to plan out
 3. "I definitely don't want to over-rely on it! I still keep a fair balance of communicating my own thoughts, but the time spent writing is much less. I don't think it's negatively impacting my writing skills - I write prose here and there in my free time - but it helps elevate my level of concise communication (a skill I've never been super great at to begin with). I'm not concerned with it taking over in that area."
    *— From conversation 00161.md*
 
+4. "I work in digital marketing with a heavy emphasis on copywriting and some graphic design. I usually use AI to look over the work I've written and suggest improvements. I will sometimes use it to help me create ideas for blog posts or different approaches to emails I'm writing or designing. I rarely use it for graphic design because of concerns I have around intellectual property protections."
+   *— From conversation 00973.md*
+
+5. "I have diversified my skills and am good enough at them that I don't think AI is prepared to "take my job." I don't worry about AI effectively replacing me. I worry about someone trying to cut costs by replacing me ineffectively with AI. As for maintaining skills, I try to demonstrate not only excellence in my work but excellence in adopting new technology, including AI."
+   *— From conversation 00973.md*
+
 ---
 
 ## Future Perspectives
@@ -116,7 +124,7 @@ I have also used it to create elements of business plans, helping me to plan out
 
 ### Key Takeaways
 
-Based on the analysis of 8 conversations:
+Based on the analysis of 15 conversations:
 
 1. **Adoption Patterns**: Marketing Professionals are actively integrating AI into their daily workflows
 
@@ -132,12 +140,12 @@ Based on the analysis of 8 conversations:
 
 ## Methodology
 
-- **Sample Size**: 8 conversations
+- **Sample Size**: 15 conversations
 - **Analysis Method**: Natural language processing and thematic coding
 - **Time Period**: Conversations collected in 2024-2025
 - **Data Source**: Interview Transcripts Database
 
 ---
 
-*Report Generated: 12/6/2025*
+*Report Generated: 12/8/2025*
 *Source: Interview Transcripts - Marketing_Professional Category*

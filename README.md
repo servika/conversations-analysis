@@ -26,18 +26,49 @@ This repository contains both the raw interview transcripts and comprehensive an
 
 ## Dataset
 
-This repository contains interview transcripts from 1,250 professionals:
+### Data Source
+
+This project uses the **Anthropic Interviewer** dataset, publicly available on Hugging Face:
+
+**🔗 [Anthropic/AnthropicInterviewer on Hugging Face](https://huggingface.co/datasets/Anthropic/AnthropicInterviewer)**
+
+The dataset contains interview transcripts from 1,250 professionals:
 - **General Workforce** (N=1,000)
 - **Creatives** (N=125)
 - **Scientists** (N=125)
 
 All participants provided informed consent for public release.
 
+**Loading the Dataset:**
+```python
+from datasets import load_dataset
+
+# Load full dataset
+dataset = load_dataset("Anthropic/AnthropicInterviewer")
+
+# Load specific splits
+workforce = load_dataset("Anthropic/AnthropicInterviewer", split="workforce")
+creatives = load_dataset("Anthropic/AnthropicInterviewer", split="creatives")
+scientists = load_dataset("Anthropic/AnthropicInterviewer", split="scientists")
+```
+
 ### Analysis Coverage
-- **Total Conversations Processed**: 444 individual dialogs
+
+**Current Processing Status:**
+
+| Category | Available | Processed | Coverage |
+|----------|-----------|-----------|----------|
+| Workforce | 1,000 | 341 | 34.1% |
+| Creatives | 125 | 25 | 20.0% |
+| Scientists | 125 | 61 | 48.8% |
+| **Total** | **1,250** | **444** | **35.5%** |
+
+- **Total Conversations Processed**: 444 individual dialogs (35.5% of available data)
 - **Professional Roles Identified**: 30+ distinct categories
 - **Detailed Analysis Reports**: 9 major professional roles
 - **Time Period**: 2024-2025
+
+**Note:** This repository currently contains analysis of 444 conversations. The remaining 806 conversations from the source dataset are available for future analysis.
 
 ## Project Structure
 
@@ -197,6 +228,10 @@ node scripts/analyze_all_roles.js
 ## License
 
 Data released under CC-BY, code released under MIT License
+
+## Contact
+
+For inquiries about the dataset or research, contact kunal@anthropic.com
 
 ## Citation
 ```bibtex

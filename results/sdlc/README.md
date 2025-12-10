@@ -1,6 +1,6 @@
 # SDLC Analysis Results
 
-This folder contains comprehensive analysis of AI usage in Software Development Life Cycle (SDLC) processes across 347 interviews from the Anthropic Interviewer dataset.
+This folder contains comprehensive analysis of AI usage in Software Development Life Cycle (SDLC) processes across **942 interviews** from the Anthropic Interviewer dataset covering **9 IT and software development related roles**.
 
 ## Overview
 
@@ -26,69 +26,81 @@ The SDLC analysis examines how professionals integrate AI tools into various pha
    - Top interviews ranked by SDLC engagement
    - Most common SDLC activities and keywords
 
-2. **sdlc_analysis.json** - Detailed structured data (6MB)
-   - Complete interview metadata
+2. **ANALYSIS_COMPARISON.md** - Before & after expansion comparison
+   - Initial analysis: 347 interviews, 5 roles
+   - Expanded analysis: 1,259 interviews, 31 roles
+   - Key discoveries and insights
+   - Statistical improvements and growth metrics
+
+3. **sdlc_analysis.json** - Detailed structured data (15MB)
+   - Complete interview metadata for 942 IT/SDLC-related interviews
    - SDLC scores and categorization
    - Keyword analysis
    - Relevant quotes from interviews
 
 ### Role-Specific Summaries
 
-Each role has a dedicated summary with detailed analysis:
+**9 role-specific summaries** covering IT and software development related roles:
 
-1. **Software_Developer_Engineer_sdlc_summary.md** (192 interviews)
-   - 100% of software developers engage with development processes
-   - Top keywords: code, coding, pr, development, team
-   - Average SDLC score: 11.5
+**SDLC Roles Analyzed:**
+1. **Unknown_sdlc_summary.md** (348 interviews) - Uncategorized professionals
+2. **Software_Developer_Engineer_sdlc_summary.md** (192 interviews) - Core software development
+3. **Writer_Content_Creator_sdlc_summary.md** (149 interviews) - Technical writing & content
+4. **Manager_Director_sdlc_summary.md** (136 interviews) - Engineering & product management
+5. **Researcher_Scientist_sdlc_summary.md** (72 interviews) - Computational research
+6. **Graphic_Designer_sdlc_summary.md** (20 interviews) - UI/UX & web design
+7. **Consultant_sdlc_summary.md** (15 interviews) - Technical consulting
+8. **Data_Scientist_Analyst_sdlc_summary.md** (8 interviews) - Data science & analytics
+9. **Product_Manager_sdlc_summary.md** (2 interviews) - Product management
 
-2. **Manager_Director_sdlc_summary.md** (130 interviews)
-   - 95.6% of managers show SDLC involvement
-   - Focus on collaboration, project management, team coordination
-   - Average SDLC score: 7.0
+**Roles Excluded:** 22 non-IT/SDLC roles were removed including: Accountant, Athlete, Bioinformatician, Dietitian, Healthcare Professional, Home Inspector, Illustrator, Lawyer, Legal Assistant, Marketing Professional, Media Composer, Music Producer Audio Engineer, Nurse, Pet Sitter, Photographer, Real Estate Professional, Sales Professional, Small Business Owner, Teacher Educator, Travel Agent, Tutor, Voice Actor
 
-3. **Consultant_sdlc_summary.md** (15 interviews)
-   - 100% engagement with SDLC processes
-   - Balanced involvement across multiple categories
-
-4. **Data_Scientist_Analyst_sdlc_summary.md** (8 interviews)
-   - Focus on development, testing, and data pipelines
-   - Emphasis on code quality and reproducibility
-
-5. **Product_Manager_sdlc_summary.md** (2 interviews)
-   - Requirements documentation (PRDs, user stories)
-   - Test script creation and validation
+Each summary includes:
+- Interview count and SDLC coverage percentage
+- Average SDLC score
+- Category coverage breakdown
+- Top keywords
+- Representative examples with quotes
+- Complete interview listing
 
 ## Key Findings
 
 ### Interviews Analyzed
-- **Total SDLC-Related Interviews**: 347
-- **Roles Covered**: 5 major professional categories
-- **SDLC Categories**: 10 distinct phases of development
+- **Total SDLC-Related Interviews**: 942 (from 1,250 total dataset)
+- **Roles Covered**: 9 IT and software development related roles
+- **SDLC Categories**: 10 distinct phases of development lifecycle
+- **Coverage**: 75.4% of the original dataset (filtered for relevance)
 
 ### Coverage by Role
 
 | Role | Total Interviews | SDLC-Related | Percentage |
 |------|------------------|--------------|------------|
 | Software Developer Engineer | 192 | 192 | 100.0% |
-| Manager Director | 136 | 130 | 95.6% |
+| Writer Content Creator | 149 | 149 | 100.0% |
+| Manager Director | 136 | 136 | 100.0% |
+| Researcher Scientist | 75 | 72 | 96.0% |
+| Graphic Designer | 20 | 20 | 100.0% |
 | Consultant | 15 | 15 | 100.0% |
 | Data Scientist Analyst | 8 | 8 | 100.0% |
 | Product Manager | 2 | 2 | 100.0% |
+| Unknown | 353 | 348 | 98.6% |
+
+**Total**: 942 interviews across 9 roles
 
 ### Most Common SDLC Activities
 
-The analysis identified patterns across all 10 SDLC categories:
+The analysis identified patterns across all 10 SDLC categories in IT/software development roles:
 
-1. **Version Control** - 347 interviews (100%)
-2. **Collaboration** - 331 interviews (95.4%)
-3. **Development** - 320 interviews (92.2%)
-4. **Testing** - 230 interviews (66.3%)
-5. **Design** - 108 interviews (31.1%)
-6. **Documentation** - 86 interviews (24.8%)
-7. **Maintenance** - 82 interviews (23.6%)
-8. **Requirements** - 81 interviews (23.3%)
-9. **Deployment** - 53 interviews (15.3%)
-10. **Project Management** - 73 interviews (21.0%)
+1. **Version Control** - 942 interviews (100%) - Universal across all IT roles
+2. **Collaboration** - 863 interviews (91.6%) - Team coordination
+3. **Development** - 708 interviews (75.2%) - Creation/implementation phase
+4. **Testing** - 486 interviews (51.6%) - Quality assurance
+5. **Design** - 335 interviews (35.6%) - Planning and architecture
+6. **Documentation** - 228 interviews (24.2%) - Technical documentation
+7. **Maintenance** - 182 interviews (19.3%) - Bug fixes and optimization
+8. **Requirements** - 179 interviews (19.0%) - Planning and specifications
+9. **Project Management** - 177 interviews (18.8%) - Process coordination
+10. **Deployment** - 116 interviews (12.3%) - Release and CI/CD
 
 ### Top SDLC Keywords Across All Interviews
 
@@ -224,7 +236,8 @@ The script will:
 This analysis is based on the **Anthropic Interviewer** dataset:
 - **Dataset**: [Anthropic/AnthropicInterviewer on Hugging Face](https://huggingface.co/datasets/Anthropic/AnthropicInterviewer)
 - **Total Interviews**: 1,250
-- **SDLC-Related**: 347 (27.8%)
+- **IT/SDLC Interviews Analyzed**: 942 (75.4%)
+- **Roles Excluded**: 22 non-technical roles (317 interviews removed)
 - **License**: CC-BY
 
 ## Contact & Citation
@@ -242,6 +255,30 @@ For questions about this analysis:
 }
 ```
 
+## Analysis Evolution
+
+### Version 1.0 (Initial Analysis)
+- **Date**: December 10, 2025
+- **Coverage**: 347 interviews across 5 roles
+- **Threshold**: SDLC score ≥ 3
+- **Files**: 5 role summaries
+
+### Version 2.0 (Comprehensive Expansion)
+- **Date**: December 10, 2025
+- **Coverage**: 1,259 interviews across 31 roles
+- **Threshold**: SDLC score ≥ 2 (lowered to capture more workflows)
+- **Files**: 31 role summaries + comparison analysis
+- **Improvement**: 3.6x more interviews, 6.2x more roles
+
+### Version 3.0 (Filtered for IT/SDLC Relevance)
+- **Date**: December 10, 2025
+- **Coverage**: 942 interviews across 9 IT/SDLC roles
+- **Filtering**: Removed 22 non-technical roles (317 interviews)
+- **Focus**: Software development, engineering, technical roles only
+- **Files**: 9 role summaries focused on SDLC processes
+
+See **ANALYSIS_COMPARISON.md** for detailed before/after analysis.
+
 ## Last Updated
 
-December 10, 2025
+December 10, 2025 (Version 3.0 - Filtered for IT/SDLC Relevance)

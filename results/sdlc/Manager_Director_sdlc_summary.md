@@ -2,28 +2,28 @@
 
 ## Overview
 
-- **Total Interviews Analyzed**: 130
-- **Average SDLC Score**: 7.0
+- **Total Interviews Analyzed**: 136
+- **Average SDLC Score**: 6.8
 
 ## SDLC Categories Coverage
 
-- **version Control**: 130 interviews (100.0%)
-- **collaboration**: 129 interviews (99.2%)
-- **development**: 105 interviews (80.8%)
-- **testing**: 64 interviews (49.2%)
-- **project Management**: 37 interviews (28.5%)
-- **design**: 27 interviews (20.8%)
-- **requirements**: 26 interviews (20.0%)
-- **maintenance**: 26 interviews (20.0%)
-- **documentation**: 20 interviews (15.4%)
-- **deployment**: 13 interviews (10.0%)
+- **version Control**: 136 interviews (100.0%)
+- **collaboration**: 135 interviews (99.3%)
+- **development**: 105 interviews (77.2%)
+- **testing**: 64 interviews (47.1%)
+- **project Management**: 37 interviews (27.2%)
+- **design**: 27 interviews (19.9%)
+- **requirements**: 26 interviews (19.1%)
+- **maintenance**: 26 interviews (19.1%)
+- **documentation**: 20 interviews (14.7%)
+- **deployment**: 13 interviews (9.6%)
 
 ## Top SDLC Keywords
 
-- pr: 118 mentions
-- team: 108 mentions
+- pr: 124 mentions
+- team: 113 mentions
 - build: 48 mentions
-- collaboration: 43 mentions
+- collaboration: 44 mentions
 - development: 37 mentions
 - test: 34 mentions
 - code: 33 mentions
@@ -238,3 +238,9 @@
 | 00935 | work_0738 | 3 | projectManagement, versionControl, collaboration |
 | 00966 | work_0786 | 3 | development, versionControl, collaboration |
 | 01020 | work_0865 | 3 | design, versionControl, collaboration |
+| 00343 | work_0712 | 2 | versionControl, collaboration |
+| 00413 | work_0920 | 2 | versionControl, collaboration |
+| 00426 | work_0958 | 2 | versionControl, collaboration |
+| 00664 | work_0325 | 2 | versionControl, collaboration |
+| 01043 | work_0902 | 2 | versionControl, collaboration |
+| 01162 | creativity_0072 | 2 | versionControl, collaboration |
